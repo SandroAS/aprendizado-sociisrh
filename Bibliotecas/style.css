@@ -1,0 +1,55 @@
+.card-title{
+    color: black;
+}
+
+.altura-textarea{
+    height: 100%!important;
+}
+
+.hide {
+    display: none;
+}
+
+.color {
+    background-color:rgb(0, 96, 126);
+}
+
+.btn-successs{
+    background-color:  rgb(45, 187, 52);
+    color: white;
+}
+
+.navbar-brand{
+    color: black;
+}
+
+.nav-link{
+    color: seashell;
+}
+
+.nav-item{
+    color: seashell;
+}
+
+.nav-item:hover{
+    color: rgb(0, 96, 126)!important;
+    background-color: rgb(255, 255, 255)!important;
+}
+
+.link{
+    color: seashell;
+}
+.link:hover{
+    color: rgb(0, 96, 126);
+    background-color: rgb(255, 255, 255);
+}
+
+.validate{
+    background-color: rgb(124, 161, 196);
+}
+
+.validateh1{
+    border-right: solid;
+    border-right-width: thin;
+    border-color: rgb(245, 245, 245);
+}

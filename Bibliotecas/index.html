@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Teste Estágio</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <!--<link rel="shortcut icon" href="" type="image/x-icon"/> -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        
+        <!--<link href="css/style.css" rel="stylesheet">-->
+        <style>
+        
+        .hide {
+            display: none;
+        }
+
+        .color {
+            background-color:rgb(0, 96, 126);
+            color: rgb(255, 255, 255);
+        }
+
+        .btn-successs{
+            background-color:  rgb(45, 187, 52);
+            color: white;
+        }
+
+        .link{
+            color: seashell;
+        }
+        .link:hover{
+            color: rgb(0, 96, 126);
+            background-color: rgb(255, 255, 255);
+        }
+
+        .validate{
+            background-color: rgb(124, 161, 196);
+        }
+
+        .validateh1{
+            border-right: solid;
+            border-right-width: thin;
+            border-color: rgb(245, 245, 245);
+        }
+        
+        </style>
+    </head>
+    <body class="color">
+
+        <div class="validate p-3 pl-5 row">
+            <h1 class="col-2 validateh1">Validate</h1>
+            <h1 class="col-2 h4 text-right"><a class="link" href="repeater.html">Repeater</a></h1>
+            <h1 class="col-2 h4 text-right"><a class="link" href="datatable.html">DataTable</a></h1>
+            <h1 class="col-2 h4 text-right"><a class="link" href="apexcharts.html">ApexCharts</a></h1>
+            <h1 class="col-2 h4 text-right"><a class="link" href="project.html">Projeto</a></h1>
+        </div>
+
+        <hr>
+
+        <div class="container">
+            <form id="idForm" class="" action="">
+                <d class="row">
+                    <div class="col-4">
+                        <p>
+                            <label for="FirstName">Primeiro Nome*:</label><br>
+                            <input type="text" id="FirstName" class="col-11" name="FirstName" placeholder="Insira o primeiro nome">
+                        </p>
+                        <p>
+                            <label for="SecondName">Segundo Nome*:</label><br>
+                            <input type="text" id="SecondName" class="col-11" name="SecondName" placeholder="Insira o primeiro nome">
+                        </p>
+                        <p>
+                            <label for="UserName">Nome de Usuário*:</label><br>
+                            <input type="text" id="UserName" class="col-11" name="UserName" placeholder="Insira o nome para usuário">
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <p>
+                            <label for="idPassword">Senha*:</label><br>
+                            <input type="password" id="idPassword" class="col-11" name="idPassword" placeholder="Insira a senha">
+                        </p>
+                        <p>
+                            <label for="idConfirmarPassword">Confirme a Senha*:</label><br>
+                            <input type="password" id="idConfirmarPassword" class="col-11" name="idConfirmarPassword" placeholder="Insira a mesma senha">
+                        </p>
+                        <p>
+                            <label for="InputEmail">E-mail*:</label><br>
+                            <input type="email" id="InputEmail" class="col-11" name="InputEmail" placeholder="Insira o seu e-mail">
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <p>
+                            <label for="InputURL">URL:</label><br>
+                            <input type="url" id="InputURL" class="col-11" name="InputURL" placeholder="Insira uma url">
+                        </p>
+                        <p>
+                            <label for="checkbox1">Concorda com os termos de compromisso?</label><br>
+                            <input type="checkbox" id="checkbox1" class="checkbox col-3" name="checkbox1">
+                        </p>
+                        <p>
+                            <label for="checkbox2">Tem certeza que aceita?</label><br>
+                            <input type="checkbox" id="checkbox2" class="col-3" name="checkbox2">
+                        </p>
+                    </div>
+                </div>
+                
+                <div id="testeConfianca" class="hide container">
+                    <label for="checkbox3">Vai mesmo se arriscar por cause de um teste?</label>
+                    <br>
+                    <input type="checkbox" id="checkbox3" class="col-3" name="testeConfianca">
+                    <br>
+                    <label for="checkbox4">Mesmo que vc n tenha lido?</label>
+                    <br>
+                    <input type="checkbox" id="checkbox4" class="col-3" name="testeConfianca">
+                    <br>
+                    <label for="checkbox5">Mesmo que q o termo beeficie somente 1 das partes, e talvez... ela n seja vc?</label>
+                    <br>
+                    <input type="checkbox" id="checkbox5" class="col-3" name="testeConfianca">
+                    <label for="testeConfianca" class="error"></label>
+                </div>
+                
+                <p class="container">
+                    <input type="submit" id="Submit" class="btn btn-successs" name="Submit" value="Enviar">
+                </p>
+                
+            </form>
+        </div>
+        
+        
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha512-UdIMMlVx0HEynClOIFSyOrPggomfhBKJE28LKl8yR3ghkgugPnG6iLfRfHwushZl1MOPSY6TsuBDGPK2X4zYKg==" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/additional-methods.min.js" integrity="sha512-6Uv+497AWTmj/6V14BsQioPrm3kgwmK9HYIyWP+vClykX52b0zrDGP7lajZoIY1nNlX4oQuh7zsGjmF7D0VZYA==" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/localization/messages_pt_BR.min.js" integrity="sha512-+FCfxJrlkCXOsuGOQ48Dc2at83izZqTjDgLjUWD5VhRZe6AHkIWy4EvmcVEir4xNGTZ0g8Au3fyV3NbkbVJvIA==" crossorigin="anonymous"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
