@@ -1,0 +1,4002 @@
+﻿[
+        {
+            "TICKER": "AALR3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "8.85",
+            "Cotação Máxima 12 meses": "13.69",
+            "Queda do Máximo": "-35.35%"
+        },
+        {
+            "TICKER": "ABCB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "14.56",
+            "Cotação Máxima 12 meses": "16.77",
+            "Queda do Máximo": "-13.18%"
+        },
+        {
+            "TICKER": "ABEV3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Bebidas",
+            "Segmento": "Cervejas e Refrigerantes",
+            "PRECO": "15.27",
+            "Cotação Máxima 12 meses": "16.91",
+            "Queda do Máximo": "-9.70%"
+        },
+        {
+            "TICKER": "ADHM3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "#N/A",
+            "Cotação Máxima 12 meses": "#N/A"
+        },
+        {
+            "TICKER": "AFLT3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Utilidade Pública",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "9.07",
+            "Cotação Máxima 12 meses": "14.00",
+            "Queda do Máximo": "-35.21%"
+        },
+        {
+            "TICKER": "AGRO3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Agropecuária",
+            "Segmento": "Agricultura",
+            "PRECO": "21.91",
+            "Cotação Máxima 12 meses": "28.00",
+            "Queda do Máximo": "-21.75%"
+        },
+        {
+            "TICKER": "AHEB3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Produção de Eventos e Shows",
+            "PRECO": "21.90",
+            "Cotação Máxima 12 meses": "42.00",
+            "Queda do Máximo": "-47.86%"
+        },
+        {
+            "TICKER": "AHEB5",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Produção de Eventos e Shows",
+            "PRECO": "20.01",
+            "Cotação Máxima 12 meses": "60.00",
+            "Queda do Máximo": "-66.65%"
+        },
+        {
+            "TICKER": "AHEB6",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Produção de Eventos e Shows",
+            "PRECO": "27.00",
+            "Cotação Máxima 12 meses": "35.00",
+            "Queda do Máximo": "-22.86%"
+        },
+        {
+            "TICKER": "ALPA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Calçados",
+            "PRECO": "32.03",
+            "Cotação Máxima 12 meses": "39.00",
+            "Queda do Máximo": "-17.87%"
+        },
+        {
+            "TICKER": "ALPA4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Calçados",
+            "PRECO": "35.93",
+            "Cotação Máxima 12 meses": "43.64",
+            "Queda do Máximo": "-17.67%"
+        },
+        {
+            "TICKER": "ALPK3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "8.00",
+            "Cotação Máxima 12 meses": "10.57",
+            "Queda do Máximo": "-24.31%"
+        },
+        {
+            "TICKER": "ALSO3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "26.75",
+            "Cotação Máxima 12 meses": "34.16",
+            "Queda do Máximo": "-21.69%"
+        },
+        {
+            "TICKER": "ALUP11",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "25.19",
+            "Cotação Máxima 12 meses": "27.93",
+            "Queda do Máximo": "-9.81%"
+        },
+        {
+            "TICKER": "ALUP3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "8.70",
+            "Cotação Máxima 12 meses": "11.30",
+            "Queda do Máximo": "-23.01%"
+        },
+        {
+            "TICKER": "ALUP4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "8.32",
+            "Cotação Máxima 12 meses": "9.35",
+            "Queda do Máximo": "-11.02%"
+        },
+        {
+            "TICKER": "AMAR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "5.40",
+            "Cotação Máxima 12 meses": "9.72",
+            "Queda do Máximo": "-44.44%"
+        },
+        {
+            "TICKER": "AMBP3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "24.41",
+            "Cotação Máxima 12 meses": "33.15",
+            "Queda do Máximo": "-26.37%"
+        },
+        {
+            "TICKER": "ANIM3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Serviços Educacionais",
+            "PRECO": "9.23",
+            "Cotação Máxima 12 meses": "12.98",
+            "Queda do Máximo": "-28.89%"
+        },
+        {
+            "TICKER": "APER3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Corretoras de Seguros",
+            "PRECO": "52.32",
+            "Cotação Máxima 12 meses": "61.50",
+            "Queda do Máximo": "-14.93%"
+        },
+        {
+            "TICKER": "ARZZ3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "70.20",
+            "Cotação Máxima 12 meses": "79.84",
+            "Queda do Máximo": "-12.07%"
+        },
+        {
+            "TICKER": "ATMP3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "5.00",
+            "Cotação Máxima 12 meses": "6.85",
+            "Queda do Máximo": "-27.01%"
+        },
+        {
+            "TICKER": "ATOM3",
+            "Setor": "Outros",
+            "SubSetor": "Outros",
+            "Segmento": "Outros",
+            "PRECO": "3.79",
+            "Cotação Máxima 12 meses": "4.62",
+            "Queda do Máximo": "-17.97%"
+        },
+        {
+            "TICKER": "AZEV3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Construção Pesada",
+            "PRECO": "6.20",
+            "Cotação Máxima 12 meses": "17.40",
+            "Queda do Máximo": "-64.37%"
+        },
+        {
+            "TICKER": "AZEV4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Construção Pesada",
+            "PRECO": "3.66",
+            "Cotação Máxima 12 meses": "5.84",
+            "Queda do Máximo": "-37.33%"
+        },
+        {
+            "TICKER": "AZUL4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Aéreo",
+            "PRECO": "37.60",
+            "Cotação Máxima 12 meses": "45.64",
+            "Queda do Máximo": "-17.62%"
+        },
+        {
+            "TICKER": "B3SA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Serviços Financeiros Diversos",
+            "Segmento": "Serviços Financeiros Diversos",
+            "PRECO": "54.91",
+            "Cotação Máxima 12 meses": "69.75",
+            "Queda do Máximo": "-21.28%"
+        },
+        {
+            "TICKER": "BAHI3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Serviços Educacionais",
+            "PRECO": "73.48",
+            "Cotação Máxima 12 meses": "139.00",
+            "Queda do Máximo": "-47.14%"
+        },
+        {
+            "TICKER": "BALM3",
+            "Setor": "Saúde",
+            "SubSetor": "Equipamentos",
+            "Segmento": "Equipamentos",
+            "PRECO": "16.42",
+            "Cotação Máxima 12 meses": "35.40",
+            "Queda do Máximo": "-53.62%"
+        },
+        {
+            "TICKER": "BALM4",
+            "Setor": "Saúde",
+            "SubSetor": "Equipamentos",
+            "Segmento": "Equipamentos",
+            "PRECO": "15.11",
+            "Cotação Máxima 12 meses": "23.30",
+            "Queda do Máximo": "-35.15%"
+        },
+        {
+            "TICKER": "BAUH4",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Carnes e Derivados",
+            "PRECO": "95.00",
+            "Cotação Máxima 12 meses": "98.93",
+            "Queda do Máximo": "-3.97%"
+        },
+        {
+            "TICKER": "BAZA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "39.99",
+            "Cotação Máxima 12 meses": "43.20",
+            "Queda do Máximo": "-7.43%"
+        },
+        {
+            "TICKER": "BBAS3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "29.69",
+            "Cotação Máxima 12 meses": "40.56",
+            "Queda do Máximo": "-26.80%"
+        },
+        {
+            "TICKER": "BBDC3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "23.26",
+            "Cotação Máxima 12 meses": "25.15",
+            "Queda do Máximo": "-7.51%"
+        },
+        {
+            "TICKER": "BBDC4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "26.76",
+            "Cotação Máxima 12 meses": "28.41",
+            "Queda do Máximo": "-5.81%"
+        },
+        {
+            "TICKER": "BBRK3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Intermediação Imobiliária",
+            "PRECO": "1.83",
+            "Cotação Máxima 12 meses": "3.25",
+            "Queda do Máximo": "-43.69%"
+        },
+        {
+            "TICKER": "BBSE3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "23.97",
+            "Cotação Máxima 12 meses": "30.76",
+            "Queda do Máximo": "-22.07%"
+        },
+        {
+            "TICKER": "BDLL3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "8.35",
+            "Cotação Máxima 12 meses": "27.51",
+            "Queda do Máximo": "-69.65%"
+        },
+        {
+            "TICKER": "BDLL4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "8.90",
+            "Cotação Máxima 12 meses": "17.50",
+            "Queda do Máximo": "-49.14%"
+        },
+        {
+            "TICKER": "BEEF3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Carnes e Derivados",
+            "PRECO": "9.88",
+            "Cotação Máxima 12 meses": "15.23",
+            "Queda do Máximo": "-35.13%"
+        },
+        {
+            "TICKER": "BEES3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "4.95",
+            "Cotação Máxima 12 meses": "6.30",
+            "Queda do Máximo": "-21.43%"
+        },
+        {
+            "TICKER": "BEES4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "5.85",
+            "Cotação Máxima 12 meses": "6.57",
+            "Queda do Máximo": "-10.96%"
+        },
+        {
+            "TICKER": "BGIP3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "39.00",
+            "Cotação Máxima 12 meses": "52.00",
+            "Queda do Máximo": "-25.00%"
+        },
+        {
+            "TICKER": "BGIP4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "22.60",
+            "Cotação Máxima 12 meses": "34.49",
+            "Queda do Máximo": "-34.47%"
+        },
+        {
+            "TICKER": "BIDI11",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "159.12",
+            "Cotação Máxima 12 meses": "171.00",
+            "Queda do Máximo": "-6.95%"
+        },
+        {
+            "TICKER": "BIDI3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "52.76",
+            "Cotação Máxima 12 meses": "58.03",
+            "Queda do Máximo": "-9.08%"
+        },
+        {
+            "TICKER": "BIDI4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "52.69",
+            "Cotação Máxima 12 meses": "56.76",
+            "Queda do Máximo": "-7.17%"
+        },
+        {
+            "TICKER": "BIOM3",
+            "Setor": "Saúde",
+            "SubSetor": "Medicamentos e Outros Produtos",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "16.25",
+            "Cotação Máxima 12 meses": "28.99",
+            "Queda do Máximo": "-43.95%"
+        },
+        {
+            "TICKER": "BKBR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Hoteis e Restaurantes",
+            "Segmento": "Restaurante e Similares",
+            "PRECO": "9.52",
+            "Cotação Máxima 12 meses": "14.54",
+            "Queda do Máximo": "-34.53%"
+        },
+        {
+            "TICKER": "BMEB3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "18.03",
+            "Cotação Máxima 12 meses": "25.00",
+            "Queda do Máximo": "-27.88%"
+        },
+        {
+            "TICKER": "BMEB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "16.92",
+            "Cotação Máxima 12 meses": "20.29",
+            "Queda do Máximo": "-16.61%"
+        },
+        {
+            "TICKER": "BMGB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "5.10",
+            "Cotação Máxima 12 meses": "6.27",
+            "Queda do Máximo": "-18.66%"
+        },
+        {
+            "TICKER": "BMIN3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "24.00",
+            "Cotação Máxima 12 meses": "37.00",
+            "Queda do Máximo": "-35.14%"
+        },
+        {
+            "TICKER": "BMIN4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "21.20",
+            "Cotação Máxima 12 meses": "31.50",
+            "Queda do Máximo": "-32.70%"
+        },
+        {
+            "TICKER": "BMKS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Bicicletas",
+            "PRECO": "255.94",
+            "Cotação Máxima 12 meses": "297.00",
+            "Queda do Máximo": "-13.82%"
+        },
+        {
+            "TICKER": "BNBR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "69.00",
+            "Cotação Máxima 12 meses": "94.50",
+            "Queda do Máximo": "-26.98%"
+        },
+        {
+            "TICKER": "BOAS3",
+            "Setor": "Financeiro",
+            "SubSetor": "Serviços Financeiros Diversos",
+            "Segmento": "Serviços Financeiros Diversos",
+            "PRECO": "12.42",
+            "Cotação Máxima 12 meses": "15.05",
+            "Queda do Máximo": "-17.48%"
+        },
+        {
+            "TICKER": "BOBR4",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Produtos de Uso Pessoal e de Limpeza",
+            "Segmento": "Produtos de Limpeza",
+            "PRECO": "2.45",
+            "Cotação Máxima 12 meses": "2.78",
+            "Queda do Máximo": "-11.87%"
+        },
+        {
+            "TICKER": "BPAC11",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "92.77",
+            "Cotação Máxima 12 meses": "115.85",
+            "Queda do Máximo": "-19.92%"
+        },
+        {
+            "TICKER": "BPAC3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "44.62",
+            "Cotação Máxima 12 meses": "87.00",
+            "Queda do Máximo": "-48.71%"
+        },
+        {
+            "TICKER": "BPAC5",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "24.00",
+            "Cotação Máxima 12 meses": "37.50",
+            "Queda do Máximo": "-36.00%"
+        },
+        {
+            "TICKER": "BPAN4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "10.65",
+            "Cotação Máxima 12 meses": "15.15",
+            "Queda do Máximo": "-29.70%"
+        },
+        {
+            "TICKER": "BRAP3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Mineração",
+            "Segmento": "Minerais Metálicos",
+            "PRECO": "56.07",
+            "Cotação Máxima 12 meses": "68.99",
+            "Queda do Máximo": "-18.73%"
+        },
+        {
+            "TICKER": "BRAP4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Mineração",
+            "Segmento": "Minerais Metálicos",
+            "PRECO": "64.30",
+            "Cotação Máxima 12 meses": "77.89",
+            "Queda do Máximo": "-17.45%"
+        },
+        {
+            "TICKER": "BRDT3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "22.35",
+            "Cotação Máxima 12 meses": "24.87",
+            "Queda do Máximo": "-10.13%"
+        },
+        {
+            "TICKER": "BRFS3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Carnes e Derivados",
+            "PRECO": "24.48",
+            "Cotação Máxima 12 meses": "25.80",
+            "Queda do Máximo": "-5.12%"
+        },
+        {
+            "TICKER": "BRGE11",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "10.00",
+            "Cotação Máxima 12 meses": "29.50",
+            "Queda do Máximo": "-66.10%"
+        },
+        {
+            "TICKER": "BRGE12",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "6.10",
+            "Cotação Máxima 12 meses": "10.00",
+            "Queda do Máximo": "-39.00%"
+        },
+        {
+            "TICKER": "BRGE3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "9.48",
+            "Cotação Máxima 12 meses": "17.99",
+            "Queda do Máximo": "-47.30%"
+        },
+        {
+            "TICKER": "BRGE5",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "16.67",
+            "Cotação Máxima 12 meses": "40.00",
+            "Queda do Máximo": "-58.32%"
+        },
+        {
+            "TICKER": "BRGE6",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "16.50",
+            "Cotação Máxima 12 meses": "44.99",
+            "Queda do Máximo": "-63.33%"
+        },
+        {
+            "TICKER": "BRGE8",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "8.50",
+            "Cotação Máxima 12 meses": "13.90",
+            "Queda do Máximo": "-38.85%"
+        },
+        {
+            "TICKER": "BRIV3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "9.26",
+            "Cotação Máxima 12 meses": "18.60",
+            "Queda do Máximo": "-50.22%"
+        },
+        {
+            "TICKER": "BRIV4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "8.68",
+            "Cotação Máxima 12 meses": "12.29",
+            "Queda do Máximo": "-29.37%"
+        },
+        {
+            "TICKER": "BRKM3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Petroquímicos",
+            "PRECO": "35.10",
+            "Cotação Máxima 12 meses": "35.77",
+            "Queda do Máximo": "-1.87%"
+        },
+        {
+            "TICKER": "BRKM5",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Petroquímicos",
+            "PRECO": "37.66",
+            "Cotação Máxima 12 meses": "38.75",
+            "Queda do Máximo": "-2.81%"
+        },
+        {
+            "TICKER": "BRKM6",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Petroquímicos",
+            "PRECO": "20.20",
+            "Cotação Máxima 12 meses": "22.00",
+            "Queda do Máximo": "-8.18%"
+        },
+        {
+            "TICKER": "BRML3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "9.81",
+            "Cotação Máxima 12 meses": "12.20",
+            "Queda do Máximo": "-19.59%"
+        },
+        {
+            "TICKER": "BRPR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "8.73",
+            "Cotação Máxima 12 meses": "11.15",
+            "Queda do Máximo": "-21.70%"
+        },
+        {
+            "TICKER": "BRSR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "13.76",
+            "Cotação Máxima 12 meses": "19.20",
+            "Queda do Máximo": "-28.33%"
+        },
+        {
+            "TICKER": "BRSR5",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "16.51",
+            "Cotação Máxima 12 meses": "24.50",
+            "Queda do Máximo": "-32.61%"
+        },
+        {
+            "TICKER": "BRSR6",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "12.24",
+            "Cotação Máxima 12 meses": "15.60",
+            "Queda do Máximo": "-21.54%"
+        },
+        {
+            "TICKER": "BSEV3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Açucar e Alcool",
+            "PRECO": "8.47",
+            "Cotação Máxima 12 meses": "9.50",
+            "Queda do Máximo": "-10.84%"
+        },
+        {
+            "TICKER": "BSLI3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "53.35",
+            "Cotação Máxima 12 meses": "140.00",
+            "Queda do Máximo": "-61.89%"
+        },
+        {
+            "TICKER": "BSLI4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "35.08",
+            "Cotação Máxima 12 meses": "143.00",
+            "Queda do Máximo": "-75.47%"
+        },
+        {
+            "TICKER": "BTOW3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "60.39",
+            "Cotação Máxima 12 meses": "127.47",
+            "Queda do Máximo": "-52.62%"
+        },
+        {
+            "TICKER": "BTTL3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Comércio",
+            "Segmento": "Material de Transporte",
+            "PRECO": "9.07",
+            "Cotação Máxima 12 meses": "14.90",
+            "Queda do Máximo": "-39.13%"
+        },
+        {
+            "TICKER": "CAMB3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Calçados",
+            "PRECO": "4.54",
+            "Cotação Máxima 12 meses": "6.44",
+            "Queda do Máximo": "-29.50%"
+        },
+        {
+            "TICKER": "CAML3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Alimentos Diversos",
+            "PRECO": "10.22",
+            "Cotação Máxima 12 meses": "15.26",
+            "Queda do Máximo": "-33.03%"
+        },
+        {
+            "TICKER": "CARD3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "17.03",
+            "Cotação Máxima 12 meses": "17.73",
+            "Queda do Máximo": "-3.95%"
+        },
+        {
+            "TICKER": "CASH3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Programas e Serviços",
+            "Segmento": "Programas e Serviços",
+            "PRECO": "22.98",
+            "Cotação Máxima 12 meses": "36.67",
+            "Queda do Máximo": "-37.33%"
+        },
+        {
+            "TICKER": "CASN3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Água e Saneamento",
+            "Segmento": "Água e Saneamento",
+            "PRECO": "15.20",
+            "Cotação Máxima 12 meses": "50.00",
+            "Queda do Máximo": "-69.60%"
+        },
+        {
+            "TICKER": "CBEE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "16.11",
+            "Cotação Máxima 12 meses": "22.00",
+            "Queda do Máximo": "-26.77%"
+        },
+        {
+            "TICKER": "CCPR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "11.31",
+            "Cotação Máxima 12 meses": "18.15",
+            "Queda do Máximo": "-37.69%"
+        },
+        {
+            "TICKER": "CCRO3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Exploração de Rodovias",
+            "PRECO": "12.04",
+            "Cotação Máxima 12 meses": "16.10",
+            "Queda do Máximo": "-25.22%"
+        },
+        {
+            "TICKER": "CEAB3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "10.96",
+            "Cotação Máxima 12 meses": "14.48",
+            "Queda do Máximo": "-24.31%"
+        },
+        {
+            "TICKER": "CEBR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "151.00",
+            "Cotação Máxima 12 meses": "159.00",
+            "Queda do Máximo": "-5.03%"
+        },
+        {
+            "TICKER": "CEBR5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "169.29",
+            "Cotação Máxima 12 meses": "169.29",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "CEBR6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "169.30",
+            "Cotação Máxima 12 meses": "169.30",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "CEDO3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "10.78",
+            "Cotação Máxima 12 meses": "24.94",
+            "Queda do Máximo": "-56.78%"
+        },
+        {
+            "TICKER": "CEDO4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "5.40",
+            "Cotação Máxima 12 meses": "13.70",
+            "Queda do Máximo": "-60.58%"
+        },
+        {
+            "TICKER": "CEEB3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "41.40",
+            "Cotação Máxima 12 meses": "45.00",
+            "Queda do Máximo": "-8.00%"
+        },
+        {
+            "TICKER": "CEEB5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "45.00",
+            "Cotação Máxima 12 meses": "49.98",
+            "Queda do Máximo": "-9.96%"
+        },
+        {
+            "TICKER": "CEED3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "49.99",
+            "Cotação Máxima 12 meses": "100.00",
+            "Queda do Máximo": "-50.01%"
+        },
+        {
+            "TICKER": "CEED4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "70.00",
+            "Cotação Máxima 12 meses": "100.00",
+            "Queda do Máximo": "-30.00%"
+        },
+        {
+            "TICKER": "CEGR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Gás",
+            "Segmento": "Gás",
+            "PRECO": "61.26",
+            "Cotação Máxima 12 meses": "500.00",
+            "Queda do Máximo": "-87.75%"
+        },
+        {
+            "TICKER": "CEPE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "128.00",
+            "Cotação Máxima 12 meses": "133.14",
+            "Queda do Máximo": "-3.86%"
+        },
+        {
+            "TICKER": "CEPE5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "28.00",
+            "Cotação Máxima 12 meses": "45.00",
+            "Queda do Máximo": "-37.78%"
+        },
+        {
+            "TICKER": "CEPE6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "45.00",
+            "Cotação Máxima 12 meses": "54.05",
+            "Queda do Máximo": "-16.74%"
+        },
+        {
+            "TICKER": "CESP3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "32.50",
+            "Cotação Máxima 12 meses": "36.90",
+            "Queda do Máximo": "-11.92%"
+        },
+        {
+            "TICKER": "CESP5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "38.17",
+            "Cotação Máxima 12 meses": "59.01",
+            "Queda do Máximo": "-35.32%"
+        },
+        {
+            "TICKER": "CESP6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "28.08",
+            "Cotação Máxima 12 meses": "32.40",
+            "Queda do Máximo": "-13.33%"
+        },
+        {
+            "TICKER": "CGAS3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Gás",
+            "Segmento": "Gás",
+            "PRECO": "146.00",
+            "Cotação Máxima 12 meses": "195.00",
+            "Queda do Máximo": "-25.13%"
+        },
+        {
+            "TICKER": "CGAS5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Gás",
+            "Segmento": "Gás",
+            "PRECO": "160.00",
+            "Cotação Máxima 12 meses": "198.00",
+            "Queda do Máximo": "-19.19%"
+        },
+        {
+            "TICKER": "CGRA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "31.54",
+            "Cotação Máxima 12 meses": "43.00",
+            "Queda do Máximo": "-26.65%"
+        },
+        {
+            "TICKER": "CGRA4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "28.26",
+            "Cotação Máxima 12 meses": "42.38",
+            "Queda do Máximo": "-33.32%"
+        },
+        {
+            "TICKER": "CIEL3",
+            "Setor": "Financeiro",
+            "SubSetor": "Serviços Financeiros Diversos",
+            "Segmento": "Serviços Financeiros Diversos",
+            "PRECO": "3.64",
+            "Cotação Máxima 12 meses": "5.93",
+            "Queda do Máximo": "-38.62%"
+        },
+        {
+            "TICKER": "CLSC3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "58.90",
+            "Cotação Máxima 12 meses": "100.00",
+            "Queda do Máximo": "-41.10%"
+        },
+        {
+            "TICKER": "CLSC4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "58.88",
+            "Cotação Máxima 12 meses": "63.50",
+            "Queda do Máximo": "-7.28%"
+        },
+        {
+            "TICKER": "CMIG3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "15.07",
+            "Cotação Máxima 12 meses": "17.67",
+            "Queda do Máximo": "-14.71%"
+        },
+        {
+            "TICKER": "CMIG4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "12.39",
+            "Cotação Máxima 12 meses": "15.42",
+            "Queda do Máximo": "-19.65%"
+        },
+        {
+            "TICKER": "CNTO3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "27.71",
+            "Cotação Máxima 12 meses": "35.99",
+            "Queda do Máximo": "-23.01%"
+        },
+        {
+            "TICKER": "COCE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "51.24",
+            "Cotação Máxima 12 meses": "85.00",
+            "Queda do Máximo": "-39.72%"
+        },
+        {
+            "TICKER": "COCE5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "54.24",
+            "Cotação Máxima 12 meses": "68.99",
+            "Queda do Máximo": "-21.38%"
+        },
+        {
+            "TICKER": "COGN3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Serviços Educacionais",
+            "PRECO": "3.89",
+            "Cotação Máxima 12 meses": "9.96",
+            "Queda do Máximo": "-60.94%"
+        },
+        {
+            "TICKER": "CPFE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "30.00",
+            "Cotação Máxima 12 meses": "34.10",
+            "Queda do Máximo": "-12.02%"
+        },
+        {
+            "TICKER": "CPLE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "6.69",
+            "Cotação Máxima 12 meses": "7.30",
+            "Queda do Máximo": "-8.36%"
+        },
+        {
+            "TICKER": "CPLE5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "60.52",
+            "Cotação Máxima 12 meses": "60.52",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "CPLE6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "6.92",
+            "Cotação Máxima 12 meses": "7.68",
+            "Queda do Máximo": "-9.90%"
+        },
+        {
+            "TICKER": "CRDE3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "23.50",
+            "Cotação Máxima 12 meses": "36.00",
+            "Queda do Máximo": "-34.72%"
+        },
+        {
+            "TICKER": "CRFB3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Alimentos",
+            "PRECO": "22.18",
+            "Cotação Máxima 12 meses": "23.40",
+            "Queda do Máximo": "-5.21%"
+        },
+        {
+            "TICKER": "CRIV3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Soc. Crédito e Financiamento",
+            "PRECO": "5.12",
+            "Cotação Máxima 12 meses": "8.78",
+            "Queda do Máximo": "-41.69%"
+        },
+        {
+            "TICKER": "CRIV4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Soc. Crédito e Financiamento",
+            "PRECO": "6.23",
+            "Cotação Máxima 12 meses": "8.40",
+            "Queda do Máximo": "-25.83%"
+        },
+        {
+            "TICKER": "CRPG3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Químicos Diversos",
+            "PRECO": "51.00",
+            "Cotação Máxima 12 meses": "51.00",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "CRPG5",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Químicos Diversos",
+            "PRECO": "58.20",
+            "Cotação Máxima 12 meses": "58.20",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "CRPG6",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Químicos Diversos",
+            "PRECO": "58.00",
+            "Cotação Máxima 12 meses": "58.20",
+            "Queda do Máximo": "-0.34%"
+        },
+        {
+            "TICKER": "CSAB3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "49.08",
+            "Cotação Máxima 12 meses": "60.02",
+            "Queda do Máximo": "-18.23%"
+        },
+        {
+            "TICKER": "CSAB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "50.99",
+            "Cotação Máxima 12 meses": "60.00",
+            "Queda do Máximo": "-15.02%"
+        },
+        {
+            "TICKER": "CSAN3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "91.88",
+            "Cotação Máxima 12 meses": "96.52",
+            "Queda do Máximo": "-4.81%"
+        },
+        {
+            "TICKER": "CSMG3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Água e Saneamento",
+            "Segmento": "Água e Saneamento",
+            "PRECO": "14.79",
+            "Cotação Máxima 12 meses": "21.28",
+            "Queda do Máximo": "-30.50%"
+        },
+        {
+            "TICKER": "CSNA3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "34.94",
+            "Cotação Máxima 12 meses": "39.63",
+            "Queda do Máximo": "-11.83%"
+        },
+        {
+            "TICKER": "CSRN3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "15.51",
+            "Cotação Máxima 12 meses": "27.26",
+            "Queda do Máximo": "-43.10%"
+        },
+        {
+            "TICKER": "CSRN5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "15.42",
+            "Cotação Máxima 12 meses": "26.00",
+            "Queda do Máximo": "-40.69%"
+        },
+        {
+            "TICKER": "CSRN6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "15.70",
+            "Cotação Máxima 12 meses": "24.01",
+            "Queda do Máximo": "-34.61%"
+        },
+        {
+            "TICKER": "CTKA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "25.32",
+            "Cotação Máxima 12 meses": "45.54",
+            "Queda do Máximo": "-44.40%"
+        },
+        {
+            "TICKER": "CTKA4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "19.39",
+            "Cotação Máxima 12 meses": "30.28",
+            "Queda do Máximo": "-35.96%"
+        },
+        {
+            "TICKER": "CTNM3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "12.00",
+            "Cotação Máxima 12 meses": "16.98",
+            "Queda do Máximo": "-29.33%"
+        },
+        {
+            "TICKER": "CTNM4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "5.28",
+            "Cotação Máxima 12 meses": "6.80",
+            "Queda do Máximo": "-22.35%"
+        },
+        {
+            "TICKER": "CTSA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "2.65",
+            "Cotação Máxima 12 meses": "8.25",
+            "Queda do Máximo": "-67.88%"
+        },
+        {
+            "TICKER": "CTSA4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "1.91",
+            "Cotação Máxima 12 meses": "4.05",
+            "Queda do Máximo": "-52.84%"
+        },
+        {
+            "TICKER": "CURY3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "9.02",
+            "Cotação Máxima 12 meses": "11.78",
+            "Queda do Máximo": "-23.43%"
+        },
+        {
+            "TICKER": "CVCB3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Viagens e Turismo",
+            "PRECO": "19.07",
+            "Cotação Máxima 12 meses": "23.81",
+            "Queda do Máximo": "-19.91%"
+        },
+        {
+            "TICKER": "CYRE3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "23.93",
+            "Cotação Máxima 12 meses": "31.90",
+            "Queda do Máximo": "-24.98%"
+        },
+        {
+            "TICKER": "DASA3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "143.30",
+            "Cotação Máxima 12 meses": "242.00",
+            "Queda do Máximo": "-40.79%"
+        },
+        {
+            "TICKER": "DIRR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "12.38",
+            "Cotação Máxima 12 meses": "18.73",
+            "Queda do Máximo": "-33.90%"
+        },
+        {
+            "TICKER": "DMMO3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "0.87",
+            "Cotação Máxima 12 meses": "2.39",
+            "Queda do Máximo": "-63.60%"
+        },
+        {
+            "TICKER": "DMVF3",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "8.99",
+            "Cotação Máxima 12 meses": "16.75",
+            "Queda do Máximo": "-46.33%"
+        },
+        {
+            "TICKER": "DOHL3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "26.00",
+            "Cotação Máxima 12 meses": "65.00",
+            "Queda do Máximo": "-60.00%"
+        },
+        {
+            "TICKER": "DOHL4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "5.39",
+            "Cotação Máxima 12 meses": "7.48",
+            "Queda do Máximo": "-27.94%"
+        },
+        {
+            "TICKER": "DTCY3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "9.98",
+            "Cotação Máxima 12 meses": "22.47",
+            "Queda do Máximo": "-55.59%"
+        },
+        {
+            "TICKER": "DTEX3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Madeira",
+            "PRECO": "18.91",
+            "Cotação Máxima 12 meses": "22.30",
+            "Queda do Máximo": "-15.20%"
+        },
+        {
+            "TICKER": "EALT3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "15.91",
+            "Cotação Máxima 12 meses": "26.62",
+            "Queda do Máximo": "-40.23%"
+        },
+        {
+            "TICKER": "EALT4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "5.08",
+            "Cotação Máxima 12 meses": "5.82",
+            "Queda do Máximo": "-12.71%"
+        },
+        {
+            "TICKER": "ECOR3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Exploração de Rodovias",
+            "PRECO": "11.23",
+            "Cotação Máxima 12 meses": "14.97",
+            "Queda do Máximo": "-24.98%"
+        },
+        {
+            "TICKER": "ECPR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "77.00",
+            "Cotação Máxima 12 meses": "78.10",
+            "Queda do Máximo": "-1.41%"
+        },
+        {
+            "TICKER": "ECPR4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "74.96",
+            "Cotação Máxima 12 meses": "85.00",
+            "Queda do Máximo": "-11.81%"
+        },
+        {
+            "TICKER": "EEEL3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "547.50",
+            "Cotação Máxima 12 meses": "565.00",
+            "Queda do Máximo": "-3.10%"
+        },
+        {
+            "TICKER": "EEEL4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "600.00",
+            "Cotação Máxima 12 meses": "600.00",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "EGIE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "41.16",
+            "Cotação Máxima 12 meses": "47.70",
+            "Queda do Máximo": "-13.71%"
+        },
+        {
+            "TICKER": "EKTR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "38.98",
+            "Cotação Máxima 12 meses": "68.00",
+            "Queda do Máximo": "-42.68%"
+        },
+        {
+            "TICKER": "EKTR4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "26.99",
+            "Cotação Máxima 12 meses": "32.50",
+            "Queda do Máximo": "-16.95%"
+        },
+        {
+            "TICKER": "ELET3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "33.73",
+            "Cotação Máxima 12 meses": "41.33",
+            "Queda do Máximo": "-18.39%"
+        },
+        {
+            "TICKER": "ELET5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "72.02",
+            "Cotação Máxima 12 meses": "90.97",
+            "Queda do Máximo": "-20.83%"
+        },
+        {
+            "TICKER": "ELET6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "34.26",
+            "Cotação Máxima 12 meses": "41.55",
+            "Queda do Máximo": "-17.55%"
+        },
+        {
+            "TICKER": "EMAE4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "59.59",
+            "Cotação Máxima 12 meses": "80.90",
+            "Queda do Máximo": "-26.34%"
+        },
+        {
+            "TICKER": "EMBR3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Aeronáutico e de Defesa",
+            "PRECO": "13.50",
+            "Cotação Máxima 12 meses": "15.04",
+            "Queda do Máximo": "-10.24%"
+        },
+        {
+            "TICKER": "ENAT3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "15.37",
+            "Cotação Máxima 12 meses": "16.94",
+            "Queda do Máximo": "-9.27%"
+        },
+        {
+            "TICKER": "ENBR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "19.42",
+            "Cotação Máxima 12 meses": "20.65",
+            "Queda do Máximo": "-5.96%"
+        },
+        {
+            "TICKER": "ENEV3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "16.34",
+            "Cotação Máxima 12 meses": "18.86",
+            "Queda do Máximo": "-13.36%"
+        },
+        {
+            "TICKER": "ENGI11",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "43.70",
+            "Cotação Máxima 12 meses": "53.48",
+            "Queda do Máximo": "-18.29%"
+        },
+        {
+            "TICKER": "ENGI3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "15.36",
+            "Cotação Máxima 12 meses": "22.15",
+            "Queda do Máximo": "-30.65%"
+        },
+        {
+            "TICKER": "ENGI4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "7.12",
+            "Cotação Máxima 12 meses": "9.70",
+            "Queda do Máximo": "-26.60%"
+        },
+        {
+            "TICKER": "ENJU3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Programas e Serviços",
+            "Segmento": "Programas e Serviços",
+            "PRECO": "10.21",
+            "Cotação Máxima 12 meses": "21.74",
+            "Queda do Máximo": "-53.04%"
+        },
+        {
+            "TICKER": "ENMT3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "42.89",
+            "Cotação Máxima 12 meses": "43.00",
+            "Queda do Máximo": "-0.26%"
+        },
+        {
+            "TICKER": "ENMT4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "41.99",
+            "Cotação Máxima 12 meses": "42.49",
+            "Queda do Máximo": "-1.18%"
+        },
+        {
+            "TICKER": "EQPA3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "4.12",
+            "Cotação Máxima 12 meses": "4.17",
+            "Queda do Máximo": "-1.20%"
+        },
+        {
+            "TICKER": "EQPA5",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "5.50",
+            "Cotação Máxima 12 meses": "6.80",
+            "Queda do Máximo": "-19.12%"
+        },
+        {
+            "TICKER": "EQPA6",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "10.68",
+            "Cotação Máxima 12 meses": "14.85",
+            "Queda do Máximo": "-28.08%"
+        },
+        {
+            "TICKER": "EQPA7",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "5.40",
+            "Cotação Máxima 12 meses": "7.19",
+            "Queda do Máximo": "-24.90%"
+        },
+        {
+            "TICKER": "EQTL3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "22.60",
+            "Cotação Máxima 12 meses": "25.74",
+            "Queda do Máximo": "-12.20%"
+        },
+        {
+            "TICKER": "ESTR4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Brinquedos e Jogos",
+            "PRECO": "26.21",
+            "Cotação Máxima 12 meses": "38.06",
+            "Queda do Máximo": "-31.14%"
+        },
+        {
+            "TICKER": "ETER3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Produtos para Construção",
+            "PRECO": "17.77",
+            "Cotação Máxima 12 meses": "20.20",
+            "Queda do Máximo": "-12.03%"
+        },
+        {
+            "TICKER": "EUCA3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Madeira",
+            "PRECO": "20.49",
+            "Cotação Máxima 12 meses": "55.00",
+            "Queda do Máximo": "-62.75%"
+        },
+        {
+            "TICKER": "EUCA4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Madeira",
+            "PRECO": "7.80",
+            "Cotação Máxima 12 meses": "8.26",
+            "Queda do Máximo": "-5.57%"
+        },
+        {
+            "TICKER": "EVEN3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "10.36",
+            "Cotação Máxima 12 meses": "15.30",
+            "Queda do Máximo": "-32.29%"
+        },
+        {
+            "TICKER": "EZTC3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "31.51",
+            "Cotação Máxima 12 meses": "46.00",
+            "Queda do Máximo": "-31.50%"
+        },
+        {
+            "TICKER": "FESA3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "33.38",
+            "Cotação Máxima 12 meses": "45.84",
+            "Queda do Máximo": "-27.18%"
+        },
+        {
+            "TICKER": "FESA4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "31.09",
+            "Cotação Máxima 12 meses": "32.10",
+            "Queda do Máximo": "-3.15%"
+        },
+        {
+            "TICKER": "FHER3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Fertilizantes e Defensivos",
+            "PRECO": "6.54",
+            "Cotação Máxima 12 meses": "8.20",
+            "Queda do Máximo": "-20.24%"
+        },
+        {
+            "TICKER": "FLRY3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "25.20",
+            "Cotação Máxima 12 meses": "29.81",
+            "Queda do Máximo": "-15.46%"
+        },
+        {
+            "TICKER": "FRAS3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "11.80",
+            "Cotação Máxima 12 meses": "12.90",
+            "Queda do Máximo": "-8.53%"
+        },
+        {
+            "TICKER": "FRIO3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "63.00",
+            "Cotação Máxima 12 meses": "130.00",
+            "Queda do Máximo": "-51.54%"
+        },
+        {
+            "TICKER": "FRTA3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Agropecuária",
+            "Segmento": "Agricultura",
+            "PRECO": "5.06",
+            "Cotação Máxima 12 meses": "9.20",
+            "Queda do Máximo": "-45.00%"
+        },
+        {
+            "TICKER": "GEPA3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "36.50",
+            "Cotação Máxima 12 meses": "54.90",
+            "Queda do Máximo": "-33.52%"
+        },
+        {
+            "TICKER": "GEPA4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "36.09",
+            "Cotação Máxima 12 meses": "49.00",
+            "Queda do Máximo": "-26.35%"
+        },
+        {
+            "TICKER": "GFSA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "4.78",
+            "Cotação Máxima 12 meses": "6.51",
+            "Queda do Máximo": "-26.57%"
+        },
+        {
+            "TICKER": "GGBR3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "23.06",
+            "Cotação Máxima 12 meses": "24.84",
+            "Queda do Máximo": "-7.17%"
+        },
+        {
+            "TICKER": "GGBR4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "28.51",
+            "Cotação Máxima 12 meses": "30.00",
+            "Queda do Máximo": "-4.97%"
+        },
+        {
+            "TICKER": "GMAT3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Alimentos",
+            "PRECO": "7.83",
+            "Cotação Máxima 12 meses": "9.45",
+            "Queda do Máximo": "-17.14%"
+        },
+        {
+            "TICKER": "GNDI3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "85.20",
+            "Cotação Máxima 12 meses": "103.04",
+            "Queda do Máximo": "-17.31%"
+        },
+        {
+            "TICKER": "GOAU3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "10.71",
+            "Cotação Máxima 12 meses": "11.49",
+            "Queda do Máximo": "-6.79%"
+        },
+        {
+            "TICKER": "GOAU4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "12.67",
+            "Cotação Máxima 12 meses": "13.30",
+            "Queda do Máximo": "-4.74%"
+        },
+        {
+            "TICKER": "GOLL4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Aéreo",
+            "PRECO": "20.95",
+            "Cotação Máxima 12 meses": "29.03",
+            "Queda do Máximo": "-27.83%"
+        },
+        {
+            "TICKER": "GPAR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "64.00",
+            "Cotação Máxima 12 meses": "139.99",
+            "Queda do Máximo": "-54.28%"
+        },
+        {
+            "TICKER": "GPCP3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Petroquímicos",
+            "PRECO": "21.77",
+            "Cotação Máxima 12 meses": "27.99",
+            "Queda do Máximo": "-22.22%"
+        },
+        {
+            "TICKER": "GPCP4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Petroquímicos",
+            "PRECO": "27.44",
+            "Cotação Máxima 12 meses": "140.00",
+            "Queda do Máximo": "-80.40%"
+        },
+        {
+            "TICKER": "GPIV33",
+            "Setor": "Financeiro",
+            "SubSetor": "Serviços Financeiros Diversos",
+            "Segmento": "Gestão de Recursos e Investimentos",
+            "PRECO": "5.08",
+            "Cotação Máxima 12 meses": "6.17",
+            "Queda do Máximo": "-17.67%"
+        },
+        {
+            "TICKER": "GRND3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Calçados",
+            "PRECO": "7.78",
+            "Cotação Máxima 12 meses": "9.32",
+            "Queda do Máximo": "-16.52%"
+        },
+        {
+            "TICKER": "GSHP3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "46.43",
+            "Cotação Máxima 12 meses": "87.00",
+            "Queda do Máximo": "-46.63%"
+        },
+        {
+            "TICKER": "GUAR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "14.24",
+            "Cotação Máxima 12 meses": "20.68",
+            "Queda do Máximo": "-31.14%"
+        },
+        {
+            "TICKER": "HAGA3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Produtos para Construção",
+            "PRECO": "3.13",
+            "Cotação Máxima 12 meses": "5.29",
+            "Queda do Máximo": "-40.83%"
+        },
+        {
+            "TICKER": "HAGA4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Produtos para Construção",
+            "PRECO": "2.06",
+            "Cotação Máxima 12 meses": "2.47",
+            "Queda do Máximo": "-16.60%"
+        },
+        {
+            "TICKER": "HAPV3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "15.18",
+            "Cotação Máxima 12 meses": "18.48",
+            "Queda do Máximo": "-17.86%"
+        },
+        {
+            "TICKER": "HBOR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "8.63",
+            "Cotação Máxima 12 meses": "17.60",
+            "Queda do Máximo": "-50.97%"
+        },
+        {
+            "TICKER": "HBSA3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Hidroviário",
+            "PRECO": "5.92",
+            "Cotação Máxima 12 meses": "7.73",
+            "Queda do Máximo": "-23.42%"
+        },
+        {
+            "TICKER": "HBTS5",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "24.60",
+            "Cotação Máxima 12 meses": "46.00",
+            "Queda do Máximo": "-46.52%"
+        },
+        {
+            "TICKER": "HETA4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Utilidades Domésticas",
+            "Segmento": "Utensílios Domésticos",
+            "PRECO": "9.42",
+            "Cotação Máxima 12 meses": "18.42",
+            "Queda do Máximo": "-48.86%"
+        },
+        {
+            "TICKER": "HGTX3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Vestuário",
+            "PRECO": "15.94",
+            "Cotação Máxima 12 meses": "21.14",
+            "Queda do Máximo": "-24.60%"
+        },
+        {
+            "TICKER": "HOOT4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Hoteis e Restaurantes",
+            "Segmento": "Hotelaria",
+            "PRECO": "2.58",
+            "Cotação Máxima 12 meses": "3.50",
+            "Queda do Máximo": "-26.29%"
+        },
+        {
+            "TICKER": "HYPE3",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "32.37",
+            "Cotação Máxima 12 meses": "37.15",
+            "Queda do Máximo": "-12.87%"
+        },
+        {
+            "TICKER": "IDVL3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "#N/A",
+            "Cotação Máxima 12 meses": "#N/A"
+        },
+        {
+            "TICKER": "IDVL4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "#N/A",
+            "Cotação Máxima 12 meses": "#N/A"
+        },
+        {
+            "TICKER": "IGBR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "12.17",
+            "Cotação Máxima 12 meses": "18.80",
+            "Queda do Máximo": "-35.27%"
+        },
+        {
+            "TICKER": "IGTA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "36.54",
+            "Cotação Máxima 12 meses": "40.24",
+            "Queda do Máximo": "-9.19%"
+        },
+        {
+            "TICKER": "INEP3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "35.95",
+            "Cotação Máxima 12 meses": "38.49",
+            "Queda do Máximo": "-6.60%"
+        },
+        {
+            "TICKER": "INEP4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "31.64",
+            "Cotação Máxima 12 meses": "35.48",
+            "Queda do Máximo": "-10.82%"
+        },
+        {
+            "TICKER": "IRBR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "6.17",
+            "Cotação Máxima 12 meses": "13.09",
+            "Queda do Máximo": "-52.86%"
+        },
+        {
+            "TICKER": "ITSA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "11.20",
+            "Cotação Máxima 12 meses": "12.77",
+            "Queda do Máximo": "-12.29%"
+        },
+        {
+            "TICKER": "ITSA4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "10.34",
+            "Cotação Máxima 12 meses": "12.35",
+            "Queda do Máximo": "-16.28%"
+        },
+        {
+            "TICKER": "ITUB3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "25.05",
+            "Cotação Máxima 12 meses": "29.38",
+            "Queda do Máximo": "-14.74%"
+        },
+        {
+            "TICKER": "ITUB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "27.94",
+            "Cotação Máxima 12 meses": "33.44",
+            "Queda do Máximo": "-16.45%"
+        },
+        {
+            "TICKER": "JBDU3",
+            "Setor": "Outros",
+            "SubSetor": "Outros",
+            "Segmento": "Outros",
+            "PRECO": "2.45",
+            "Cotação Máxima 12 meses": "5.80",
+            "Queda do Máximo": "-57.76%"
+        },
+        {
+            "TICKER": "JBDU4",
+            "Setor": "Outros",
+            "SubSetor": "Outros",
+            "Segmento": "Outros",
+            "PRECO": "1.62",
+            "Cotação Máxima 12 meses": "2.15",
+            "Queda do Máximo": "-24.65%"
+        },
+        {
+            "TICKER": "JBSS3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Carnes e Derivados",
+            "PRECO": "28.89",
+            "Cotação Máxima 12 meses": "28.89",
+            "Queda do Máximo": "0.00%"
+        },
+        {
+            "TICKER": "JFEN3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "4.33",
+            "Cotação Máxima 12 meses": "5.80",
+            "Queda do Máximo": "-25.34%"
+        },
+        {
+            "TICKER": "JHSF3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "6.92",
+            "Cotação Máxima 12 meses": "10.62",
+            "Queda do Máximo": "-34.84%"
+        },
+        {
+            "TICKER": "JOPA3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Alimentos Diversos",
+            "PRECO": "35.81",
+            "Cotação Máxima 12 meses": "43.45",
+            "Queda do Máximo": "-17.58%"
+        },
+        {
+            "TICKER": "JOPA4",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Alimentos Diversos",
+            "PRECO": "60.00",
+            "Cotação Máxima 12 meses": "74.90",
+            "Queda do Máximo": "-19.89%"
+        },
+        {
+            "TICKER": "JPSA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "25.68",
+            "Cotação Máxima 12 meses": "27.26",
+            "Queda do Máximo": "-5.80%"
+        },
+        {
+            "TICKER": "KEPL3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "43.02",
+            "Cotação Máxima 12 meses": "47.75",
+            "Queda do Máximo": "-9.91%"
+        },
+        {
+            "TICKER": "KLBN11",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "28.75",
+            "Cotação Máxima 12 meses": "31.54",
+            "Queda do Máximo": "-8.85%"
+        },
+        {
+            "TICKER": "KLBN3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "5.81",
+            "Cotação Máxima 12 meses": "6.89",
+            "Queda do Máximo": "-15.67%"
+        },
+        {
+            "TICKER": "KLBN4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "5.74",
+            "Cotação Máxima 12 meses": "6.25",
+            "Queda do Máximo": "-8.16%"
+        },
+        {
+            "TICKER": "LAME3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "20.55",
+            "Cotação Máxima 12 meses": "32.72",
+            "Queda do Máximo": "-37.19%"
+        },
+        {
+            "TICKER": "LAME4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "22.10",
+            "Cotação Máxima 12 meses": "36.80",
+            "Queda do Máximo": "-39.95%"
+        },
+        {
+            "TICKER": "LAVV3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "7.75",
+            "Cotação Máxima 12 meses": "9.46",
+            "Queda do Máximo": "-18.08%"
+        },
+        {
+            "TICKER": "LCAM3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Aluguel de carros",
+            "PRECO": "22.96",
+            "Cotação Máxima 12 meses": "30.70",
+            "Queda do Máximo": "-25.21%"
+        },
+        {
+            "TICKER": "LEVE3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Automóveis e Motocicletas",
+            "Segmento": "Automóveis e Motocicletas",
+            "PRECO": "20.88",
+            "Cotação Máxima 12 meses": "21.80",
+            "Queda do Máximo": "-4.22%"
+        },
+        {
+            "TICKER": "LIGT3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "19.23",
+            "Cotação Máxima 12 meses": "25.15",
+            "Queda do Máximo": "-23.54%"
+        },
+        {
+            "TICKER": "LINX3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Programas e Serviços",
+            "Segmento": "Programas e Serviços",
+            "PRECO": "37.83",
+            "Cotação Máxima 12 meses": "39.11",
+            "Queda do Máximo": "-3.27%"
+        },
+        {
+            "TICKER": "LIPR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "69.80",
+            "Cotação Máxima 12 meses": "99.00",
+            "Queda do Máximo": "-29.49%"
+        },
+        {
+            "TICKER": "LJQQ3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "15.54",
+            "Cotação Máxima 12 meses": "21.15",
+            "Queda do Máximo": "-26.52%"
+        },
+        {
+            "TICKER": "LLIS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "4.03",
+            "Cotação Máxima 12 meses": "9.20",
+            "Queda do Máximo": "-56.20%"
+        },
+        {
+            "TICKER": "LOGG3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "30.62",
+            "Cotação Máxima 12 meses": "40.23",
+            "Queda do Máximo": "-23.89%"
+        },
+        {
+            "TICKER": "LOGN3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Hidroviário",
+            "PRECO": "15.29",
+            "Cotação Máxima 12 meses": "20.16",
+            "Queda do Máximo": "-24.16%"
+        },
+        {
+            "TICKER": "LPSB3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Intermediação Imobiliária",
+            "PRECO": "3.53",
+            "Cotação Máxima 12 meses": "6.22",
+            "Queda do Máximo": "-43.25%"
+        },
+        {
+            "TICKER": "LREN3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "42.21",
+            "Cotação Máxima 12 meses": "49.90",
+            "Queda do Máximo": "-15.41%"
+        },
+        {
+            "TICKER": "LUPA3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Equipamentos e Serviços",
+            "PRECO": "4.76",
+            "Cotação Máxima 12 meses": "4.77",
+            "Queda do Máximo": "-0.21%"
+        },
+        {
+            "TICKER": "LUXM4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Hidroviário",
+            "PRECO": "67.50",
+            "Cotação Máxima 12 meses": "69.00",
+            "Queda do Máximo": "-2.17%"
+        },
+        {
+            "TICKER": "LWSA3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Programas e Serviços",
+            "Segmento": "Programas e Serviços",
+            "PRECO": "23.40",
+            "Cotação Máxima 12 meses": "35.06",
+            "Queda do Máximo": "-33.26%"
+        },
+        {
+            "TICKER": "MAPT3",
+            "Setor": "Outros",
+            "SubSetor": "Outros",
+            "Segmento": "Outros",
+            "PRECO": "50.01",
+            "Cotação Máxima 12 meses": "65.00",
+            "Queda do Máximo": "-23.06%"
+        },
+        {
+            "TICKER": "MAPT4",
+            "Setor": "Outros",
+            "SubSetor": "Outros",
+            "Segmento": "Outros",
+            "PRECO": "50.00",
+            "Cotação Máxima 12 meses": "100.00",
+            "Queda do Máximo": "-50.00%"
+        },
+        {
+            "TICKER": "MDIA3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Alimentos Diversos",
+            "PRECO": "30.63",
+            "Cotação Máxima 12 meses": "41.82",
+            "Queda do Máximo": "-26.76%"
+        },
+        {
+            "TICKER": "MDNE3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "8.65",
+            "Cotação Máxima 12 meses": "12.85",
+            "Queda do Máximo": "-32.68%"
+        },
+        {
+            "TICKER": "MEAL3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Hoteis e Restaurantes",
+            "Segmento": "Restaurante e Similares",
+            "PRECO": "3.62",
+            "Cotação Máxima 12 meses": "5.46",
+            "Queda do Máximo": "-33.70%"
+        },
+        {
+            "TICKER": "MELK3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "5.58",
+            "Cotação Máxima 12 meses": "8.59",
+            "Queda do Máximo": "-35.04%"
+        },
+        {
+            "TICKER": "MERC3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Soc. Crédito e Financiamento",
+            "PRECO": "28.02",
+            "Cotação Máxima 12 meses": "45.04",
+            "Queda do Máximo": "-37.79%"
+        },
+        {
+            "TICKER": "MERC4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Soc. Crédito e Financiamento",
+            "PRECO": "10.46",
+            "Cotação Máxima 12 meses": "17.00",
+            "Queda do Máximo": "-38.47%"
+        },
+        {
+            "TICKER": "MGEL4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Artefatos de Ferro e Aço",
+            "PRECO": "9.30",
+            "Cotação Máxima 12 meses": "11.09",
+            "Queda do Máximo": "-16.14%"
+        },
+        {
+            "TICKER": "MGLU3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Eletrodomésticos",
+            "PRECO": "20.50",
+            "Cotação Máxima 12 meses": "28.31",
+            "Queda do Máximo": "-27.59%"
+        },
+        {
+            "TICKER": "MILS3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "6.69",
+            "Cotação Máxima 12 meses": "8.24",
+            "Queda do Máximo": "-18.81%"
+        },
+        {
+            "TICKER": "MMXM3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Mineração",
+            "Segmento": "Minerais Metálicos",
+            "PRECO": "35.88",
+            "Cotação Máxima 12 meses": "58.45",
+            "Queda do Máximo": "-38.61%"
+        },
+        {
+            "TICKER": "MNDL3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Acessórios",
+            "PRECO": "21.99",
+            "Cotação Máxima 12 meses": "35.42",
+            "Queda do Máximo": "-37.92%"
+        },
+        {
+            "TICKER": "MNPR3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Carnes e Derivados",
+            "PRECO": "0.00",
+            "Cotação Máxima 12 meses": "11.50",
+            "Queda do Máximo": "-100.00%"
+        },
+        {
+            "TICKER": "MOAR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Holdings Diversificadas",
+            "Segmento": "Holdings Diversificadas",
+            "PRECO": "140.40",
+            "Cotação Máxima 12 meses": "245.00",
+            "Queda do Máximo": "-42.69%"
+        },
+        {
+            "TICKER": "MOVI3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Aluguel de carros",
+            "PRECO": "16.37",
+            "Cotação Máxima 12 meses": "21.91",
+            "Queda do Máximo": "-25.29%"
+        },
+        {
+            "TICKER": "MRFG3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Carnes e Derivados",
+            "PRECO": "17.25",
+            "Cotação Máxima 12 meses": "18.38",
+            "Queda do Máximo": "-6.15%"
+        },
+        {
+            "TICKER": "MRSA3B",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Ferroviário",
+            "PRECO": "51.09",
+            "Cotação Máxima 12 meses": "85.01",
+            "Queda do Máximo": "-39.90%"
+        },
+        {
+            "TICKER": "MRSA5B",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Ferroviário",
+            "PRECO": "33.00",
+            "Cotação Máxima 12 meses": "50.00",
+            "Queda do Máximo": "-34.00%"
+        },
+        {
+            "TICKER": "MRSA6B",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Ferroviário",
+            "PRECO": "30.00",
+            "Cotação Máxima 12 meses": "32.06",
+            "Queda do Máximo": "-6.43%"
+        },
+        {
+            "TICKER": "MRVE3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "17.59",
+            "Cotação Máxima 12 meses": "21.76",
+            "Queda do Máximo": "-19.16%"
+        },
+        {
+            "TICKER": "MSPA3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "48.00",
+            "Cotação Máxima 12 meses": "56.00",
+            "Queda do Máximo": "-14.29%"
+        },
+        {
+            "TICKER": "MSPA4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "42.10",
+            "Cotação Máxima 12 meses": "58.50",
+            "Queda do Máximo": "-28.03%"
+        },
+        {
+            "TICKER": "MTIG4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Embalagens",
+            "Segmento": "Embalagens",
+            "PRECO": "51.00",
+            "Cotação Máxima 12 meses": "63.00",
+            "Queda do Máximo": "-19.05%"
+        },
+        {
+            "TICKER": "MTRE3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "12.60",
+            "Cotação Máxima 12 meses": "18.00",
+            "Queda do Máximo": "-30.00%"
+        },
+        {
+            "TICKER": "MTSA3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Construção e Agrícolas",
+            "PRECO": "35.00",
+            "Cotação Máxima 12 meses": "40.00",
+            "Queda do Máximo": "-12.50%"
+        },
+        {
+            "TICKER": "MTSA4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Construção e Agrícolas",
+            "PRECO": "30.51",
+            "Cotação Máxima 12 meses": "33.29",
+            "Queda do Máximo": "-8.35%"
+        },
+        {
+            "TICKER": "MULT3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "23.63",
+            "Cotação Máxima 12 meses": "26.02",
+            "Queda do Máximo": "-9.19%"
+        },
+        {
+            "TICKER": "MWET3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "37.00",
+            "Cotação Máxima 12 meses": "184.00",
+            "Queda do Máximo": "-79.89%"
+        },
+        {
+            "TICKER": "MWET4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "6.13",
+            "Cotação Máxima 12 meses": "18.14",
+            "Queda do Máximo": "-66.21%"
+        },
+        {
+            "TICKER": "MYPK3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Automóveis e Motocicletas",
+            "Segmento": "Automóveis e Motocicletas",
+            "PRECO": "11.83",
+            "Cotação Máxima 12 meses": "16.50",
+            "Queda do Máximo": "-28.30%"
+        },
+        {
+            "TICKER": "NEOE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "16.53",
+            "Cotação Máxima 12 meses": "22.69",
+            "Queda do Máximo": "-27.15%"
+        },
+        {
+            "TICKER": "NORD3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "21.90",
+            "Cotação Máxima 12 meses": "60.00",
+            "Queda do Máximo": "-63.50%"
+        },
+        {
+            "TICKER": "NTCO3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Produtos de Uso Pessoal e de Limpeza",
+            "Segmento": "Produtos de Uso Pessoal",
+            "PRECO": "49.25",
+            "Cotação Máxima 12 meses": "54.60",
+            "Queda do Máximo": "-9.80%"
+        },
+        {
+            "TICKER": "NUTR3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Fertilizantes e Defensivos",
+            "PRECO": "279.99",
+            "Cotação Máxima 12 meses": "285.79",
+            "Queda do Máximo": "-2.03%"
+        },
+        {
+            "TICKER": "ODPV3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "13.20",
+            "Cotação Máxima 12 meses": "16.80",
+            "Queda do Máximo": "-21.43%"
+        },
+        {
+            "TICKER": "OFSA3",
+            "Setor": "Saúde",
+            "SubSetor": "Medicamentos e Outros Produtos",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "30.35",
+            "Cotação Máxima 12 meses": "38.00",
+            "Queda do Máximo": "-20.13%"
+        },
+        {
+            "TICKER": "OIBR3",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "1.81",
+            "Cotação Máxima 12 meses": "2.59",
+            "Queda do Máximo": "-30.12%"
+        },
+        {
+            "TICKER": "OIBR4",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "2.38",
+            "Cotação Máxima 12 meses": "4.08",
+            "Queda do Máximo": "-41.67%"
+        },
+        {
+            "TICKER": "OMGE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "38.40",
+            "Cotação Máxima 12 meses": "43.50",
+            "Queda do Máximo": "-11.72%"
+        },
+        {
+            "TICKER": "OSXB3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Equipamentos e Serviços",
+            "PRECO": "18.56",
+            "Cotação Máxima 12 meses": "45.50",
+            "Queda do Máximo": "-59.21%"
+        },
+        {
+            "TICKER": "PARD3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "20.22",
+            "Cotação Máxima 12 meses": "30.15",
+            "Queda do Máximo": "-32.94%"
+        },
+        {
+            "TICKER": "PATI3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Artefatos de Ferro e Aço",
+            "PRECO": "42.00",
+            "Cotação Máxima 12 meses": "46.55",
+            "Queda do Máximo": "-9.77%"
+        },
+        {
+            "TICKER": "PATI4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Artefatos de Ferro e Aço",
+            "PRECO": "55.00",
+            "Cotação Máxima 12 meses": "59.89",
+            "Queda do Máximo": "-8.16%"
+        },
+        {
+            "TICKER": "PCAR3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Alimentos",
+            "PRECO": "31.21",
+            "Cotação Máxima 12 meses": "90.80",
+            "Queda do Máximo": "-65.63%"
+        },
+        {
+            "TICKER": "PDGR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "5.85",
+            "Cotação Máxima 12 meses": "8.75",
+            "Queda do Máximo": "-33.14%"
+        },
+        {
+            "TICKER": "PDTC3",
+            "Setor": "Financeiro",
+            "SubSetor": "Serviços Financeiros Diversos",
+            "Segmento": "Gestão de Recursos e Investimentos",
+            "PRECO": "6.20",
+            "Cotação Máxima 12 meses": "7.99",
+            "Queda do Máximo": "-22.40%"
+        },
+        {
+            "TICKER": "PEAB3",
+            "Setor": "Financeiro",
+            "SubSetor": "Holdings Diversificadas",
+            "Segmento": "Holdings Diversificadas",
+            "PRECO": "67.00",
+            "Cotação Máxima 12 meses": "114.00",
+            "Queda do Máximo": "-41.23%"
+        },
+        {
+            "TICKER": "PEAB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Holdings Diversificadas",
+            "Segmento": "Holdings Diversificadas",
+            "PRECO": "70.00",
+            "Cotação Máxima 12 meses": "125.00",
+            "Queda do Máximo": "-44.00%"
+        },
+        {
+            "TICKER": "PETR3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "23.49",
+            "Cotação Máxima 12 meses": "32.34",
+            "Queda do Máximo": "-27.37%"
+        },
+        {
+            "TICKER": "PETR4",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "23.70",
+            "Cotação Máxima 12 meses": "31.76",
+            "Queda do Máximo": "-25.38%"
+        },
+        {
+            "TICKER": "PETZ3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "19.99",
+            "Cotação Máxima 12 meses": "24.10",
+            "Queda do Máximo": "-17.05%"
+        },
+        {
+            "TICKER": "PFRM3",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "5.88",
+            "Cotação Máxima 12 meses": "8.03",
+            "Queda do Máximo": "-26.77%"
+        },
+        {
+            "TICKER": "PGMN3",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "8.98",
+            "Cotação Máxima 12 meses": "11.30",
+            "Queda do Máximo": "-20.53%"
+        },
+        {
+            "TICKER": "PINE4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "2.34",
+            "Cotação Máxima 12 meses": "3.80",
+            "Queda do Máximo": "-38.42%"
+        },
+        {
+            "TICKER": "PLAS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Automóveis e Motocicletas",
+            "Segmento": "Automóveis e Motocicletas",
+            "PRECO": "4.87",
+            "Cotação Máxima 12 meses": "6.68",
+            "Queda do Máximo": "-27.10%"
+        },
+        {
+            "TICKER": "PLPL3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "6.03",
+            "Cotação Máxima 12 meses": "9.99",
+            "Queda do Máximo": "-39.64%"
+        },
+        {
+            "TICKER": "PMAM3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Artefatos de Cobre",
+            "PRECO": "9.21",
+            "Cotação Máxima 12 meses": "16.00",
+            "Queda do Máximo": "-42.44%"
+        },
+        {
+            "TICKER": "PNVL3",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "19.12",
+            "Cotação Máxima 12 meses": "34.46",
+            "Queda do Máximo": "-44.52%"
+        },
+        {
+            "TICKER": "PNVL4",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "17.91",
+            "Cotação Máxima 12 meses": "28.00",
+            "Queda do Máximo": "-36.04%"
+        },
+        {
+            "TICKER": "POMO3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "2.54",
+            "Cotação Máxima 12 meses": "3.36",
+            "Queda do Máximo": "-24.40%"
+        },
+        {
+            "TICKER": "POMO4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "2.76",
+            "Cotação Máxima 12 meses": "3.56",
+            "Queda do Máximo": "-22.47%"
+        },
+        {
+            "TICKER": "POSI3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Computadores e Equipamentos",
+            "Segmento": "Computadores e Equipamentos",
+            "PRECO": "5.67",
+            "Cotação Máxima 12 meses": "6.74",
+            "Queda do Máximo": "-15.88%"
+        },
+        {
+            "TICKER": "PPLA11",
+            "Setor": "Financeiro",
+            "SubSetor": "Serviços Financeiros Diversos",
+            "Segmento": "Gestão de Recursos e Investimentos",
+            "PRECO": "10.19",
+            "Cotação Máxima 12 meses": "23.00",
+            "Queda do Máximo": "-55.70%"
+        },
+        {
+            "TICKER": "PRIO3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "93.88",
+            "Cotação Máxima 12 meses": "101.39",
+            "Queda do Máximo": "-7.41%"
+        },
+        {
+            "TICKER": "PRNR3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "7.72",
+            "Cotação Máxima 12 meses": "12.05",
+            "Queda do Máximo": "-35.93%"
+        },
+        {
+            "TICKER": "PSSA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "46.93",
+            "Cotação Máxima 12 meses": "59.93",
+            "Queda do Máximo": "-21.69%"
+        },
+        {
+            "TICKER": "PTBL3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Produtos para Construção",
+            "PRECO": "8.70",
+            "Cotação Máxima 12 meses": "11.08",
+            "Queda do Máximo": "-21.48%"
+        },
+        {
+            "TICKER": "PTNT3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "11.10",
+            "Cotação Máxima 12 meses": "13.00",
+            "Queda do Máximo": "-14.62%"
+        },
+        {
+            "TICKER": "PTNT4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "4.77",
+            "Cotação Máxima 12 meses": "6.40",
+            "Queda do Máximo": "-25.47%"
+        },
+        {
+            "TICKER": "QUAL3",
+            "Setor": "Saúde",
+            "SubSetor": "Análises e Diagnósticos",
+            "Segmento": "Análises e Diagnósticos",
+            "PRECO": "31.57",
+            "Cotação Máxima 12 meses": "36.20",
+            "Queda do Máximo": "-12.79%"
+        },
+        {
+            "TICKER": "RADL3",
+            "Setor": "Saúde",
+            "SubSetor": "Comércio e Distribuição",
+            "Segmento": "Medicamentos e Outros Produtos",
+            "PRECO": "25.04",
+            "Cotação Máxima 12 meses": "27.34",
+            "Queda do Máximo": "-8.41%"
+        },
+        {
+            "TICKER": "RAIL3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Ferroviário",
+            "PRECO": "20.03",
+            "Cotação Máxima 12 meses": "24.70",
+            "Queda do Máximo": "-18.91%"
+        },
+        {
+            "TICKER": "RANI3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "5.64",
+            "Cotação Máxima 12 meses": "6.73",
+            "Queda do Máximo": "-16.20%"
+        },
+        {
+            "TICKER": "RANI4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "#N/A",
+            "Cotação Máxima 12 meses": "#N/A"
+        },
+        {
+            "TICKER": "RAPT3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "11.10",
+            "Cotação Máxima 12 meses": "13.26",
+            "Queda do Máximo": "-16.29%"
+        },
+        {
+            "TICKER": "RAPT4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "14.18",
+            "Cotação Máxima 12 meses": "16.79",
+            "Queda do Máximo": "-15.54%"
+        },
+        {
+            "TICKER": "RCSL3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "7.95",
+            "Cotação Máxima 12 meses": "15.79",
+            "Queda do Máximo": "-49.65%"
+        },
+        {
+            "TICKER": "RCSL4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "1.39",
+            "Cotação Máxima 12 meses": "2.58",
+            "Queda do Máximo": "-46.12%"
+        },
+        {
+            "TICKER": "RDNI3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "8.40",
+            "Cotação Máxima 12 meses": "14.60",
+            "Queda do Máximo": "-42.47%"
+        },
+        {
+            "TICKER": "REDE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "9.16",
+            "Cotação Máxima 12 meses": "11.76",
+            "Queda do Máximo": "-22.11%"
+        },
+        {
+            "TICKER": "RENT3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Aluguel de carros",
+            "PRECO": "57.10",
+            "Cotação Máxima 12 meses": "73.93",
+            "Queda do Máximo": "-22.76%"
+        },
+        {
+            "TICKER": "RLOG3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Ferroviário",
+            "PRECO": "23.08",
+            "Cotação Máxima 12 meses": "23.22",
+            "Queda do Máximo": "-0.60%"
+        },
+        {
+            "TICKER": "RNEW11",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "12.26",
+            "Cotação Máxima 12 meses": "19.95",
+            "Queda do Máximo": "-38.55%"
+        },
+        {
+            "TICKER": "RNEW3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "4.35",
+            "Cotação Máxima 12 meses": "6.58",
+            "Queda do Máximo": "-33.89%"
+        },
+        {
+            "TICKER": "RNEW4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "3.88",
+            "Cotação Máxima 12 meses": "6.70",
+            "Queda do Máximo": "-42.09%"
+        },
+        {
+            "TICKER": "ROMI3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Máq. e Equip. Industriais",
+            "PRECO": "25.03",
+            "Cotação Máxima 12 meses": "31.88",
+            "Queda do Máximo": "-21.49%"
+        },
+        {
+            "TICKER": "RPAD3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "6.25",
+            "Cotação Máxima 12 meses": "14.44",
+            "Queda do Máximo": "-56.72%"
+        },
+        {
+            "TICKER": "RPAD5",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "8.95",
+            "Cotação Máxima 12 meses": "10.00",
+            "Queda do Máximo": "-10.50%"
+        },
+        {
+            "TICKER": "RPAD6",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "5.78",
+            "Cotação Máxima 12 meses": "7.70",
+            "Queda do Máximo": "-24.94%"
+        },
+        {
+            "TICKER": "RPMG3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "3.06",
+            "Cotação Máxima 12 meses": "3.66",
+            "Queda do Máximo": "-16.39%"
+        },
+        {
+            "TICKER": "RSID3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "9.56",
+            "Cotação Máxima 12 meses": "14.95",
+            "Queda do Máximo": "-36.05%"
+        },
+        {
+            "TICKER": "RSUL4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "205.00",
+            "Cotação Máxima 12 meses": "218.90",
+            "Queda do Máximo": "-6.35%"
+        },
+        {
+            "TICKER": "SANB11",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "41.07",
+            "Cotação Máxima 12 meses": "47.20",
+            "Queda do Máximo": "-12.99%"
+        },
+        {
+            "TICKER": "SANB3",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "19.46",
+            "Cotação Máxima 12 meses": "22.35",
+            "Queda do Máximo": "-12.93%"
+        },
+        {
+            "TICKER": "SANB4",
+            "Setor": "Financeiro",
+            "SubSetor": "Intermediários Financeiros",
+            "Segmento": "Bancos",
+            "PRECO": "21.69",
+            "Cotação Máxima 12 meses": "25.00",
+            "Queda do Máximo": "-13.24%"
+        },
+        {
+            "TICKER": "SAPR11",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Água e Saneamento",
+            "Segmento": "Água e Saneamento",
+            "PRECO": "22.20",
+            "Cotação Máxima 12 meses": "34.05",
+            "Queda do Máximo": "-34.80%"
+        },
+        {
+            "TICKER": "SAPR3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Água e Saneamento",
+            "Segmento": "Água e Saneamento",
+            "PRECO": "4.45",
+            "Cotação Máxima 12 meses": "7.65",
+            "Queda do Máximo": "-41.83%"
+        },
+        {
+            "TICKER": "SAPR4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Água e Saneamento",
+            "Segmento": "Água e Saneamento",
+            "PRECO": "4.43",
+            "Cotação Máxima 12 meses": "6.74",
+            "Queda do Máximo": "-34.27%"
+        },
+        {
+            "TICKER": "SBSP3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Água e Saneamento",
+            "Segmento": "Água e Saneamento",
+            "PRECO": "41.06",
+            "Cotação Máxima 12 meses": "63.88",
+            "Queda do Máximo": "-35.72%"
+        },
+        {
+            "TICKER": "SCAR3",
+            "Setor": "Financeiro",
+            "SubSetor": "Exploração de Imóveis",
+            "Segmento": "Exploração de Imóveis",
+            "PRECO": "37.50",
+            "Cotação Máxima 12 meses": "49.36",
+            "Queda do Máximo": "-24.03%"
+        },
+        {
+            "TICKER": "SEER3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Serviços Educacionais",
+            "PRECO": "12.07",
+            "Cotação Máxima 12 meses": "19.29",
+            "Queda do Máximo": "-37.43%"
+        },
+        {
+            "TICKER": "SGPS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "7.00",
+            "Cotação Máxima 12 meses": "8.50",
+            "Queda do Máximo": "-17.65%"
+        },
+        {
+            "TICKER": "SHOW3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Viagens e Lazer",
+            "Segmento": "Produção de Eventos e Shows",
+            "PRECO": "3.62",
+            "Cotação Máxima 12 meses": "5.09",
+            "Queda do Máximo": "-28.88%"
+        },
+        {
+            "TICKER": "SHUL4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Motores, Compressores e Outros",
+            "PRECO": "14.14",
+            "Cotação Máxima 12 meses": "14.60",
+            "Queda do Máximo": "-3.15%"
+        },
+        {
+            "TICKER": "SIMH3",
+            "Setor": "Financeiro",
+            "SubSetor": "Holdings Diversificadas",
+            "Segmento": "Holdings Diversificadas",
+            "PRECO": "36.22",
+            "Cotação Máxima 12 meses": "44.00",
+            "Queda do Máximo": "-17.68%"
+        },
+        {
+            "TICKER": "SLCE3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Agropecuária",
+            "Segmento": "Agricultura",
+            "PRECO": "42.50",
+            "Cotação Máxima 12 meses": "45.19",
+            "Queda do Máximo": "-5.95%"
+        },
+        {
+            "TICKER": "SLED3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "0.87",
+            "Cotação Máxima 12 meses": "2.83",
+            "Queda do Máximo": "-69.26%"
+        },
+        {
+            "TICKER": "SLED4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Produtos Diversos",
+            "PRECO": "0.52",
+            "Cotação Máxima 12 meses": "1.23",
+            "Queda do Máximo": "-57.72%"
+        },
+        {
+            "TICKER": "SMLS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Programas de Fidelização",
+            "PRECO": "24.80",
+            "Cotação Máxima 12 meses": "25.28",
+            "Queda do Máximo": "-1.90%"
+        },
+        {
+            "TICKER": "SMTO3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Alimentos Processados",
+            "Segmento": "Açucar e Alcool",
+            "PRECO": "28.96",
+            "Cotação Máxima 12 meses": "35.80",
+            "Queda do Máximo": "-19.11%"
+        },
+        {
+            "TICKER": "SNSY3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Materiais Diversos",
+            "Segmento": "Materiais Diversos",
+            "PRECO": "15.13",
+            "Cotação Máxima 12 meses": "129.99",
+            "Queda do Máximo": "-88.36%"
+        },
+        {
+            "TICKER": "SNSY5",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Materiais Diversos",
+            "Segmento": "Materiais Diversos",
+            "PRECO": "5.34",
+            "Cotação Máxima 12 meses": "15.90",
+            "Queda do Máximo": "-66.42%"
+        },
+        {
+            "TICKER": "SOMA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Tecidos, Vestuário e Calçados",
+            "PRECO": "13.81",
+            "Cotação Máxima 12 meses": "16.21",
+            "Queda do Máximo": "-14.81%"
+        },
+        {
+            "TICKER": "SOND5",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Engenharia Consultiva",
+            "PRECO": "45.02",
+            "Cotação Máxima 12 meses": "74.99",
+            "Queda do Máximo": "-39.97%"
+        },
+        {
+            "TICKER": "SOND6",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Engenharia Consultiva",
+            "PRECO": "45.00",
+            "Cotação Máxima 12 meses": "68.50",
+            "Queda do Máximo": "-34.31%"
+        },
+        {
+            "TICKER": "SQIA3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Programas e Serviços",
+            "Segmento": "Programas e Serviços",
+            "PRECO": "22.18",
+            "Cotação Máxima 12 meses": "27.55",
+            "Queda do Máximo": "-19.49%"
+        },
+        {
+            "TICKER": "STBP3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Serviços de Apoio e Armazenagem",
+            "PRECO": "6.81",
+            "Cotação Máxima 12 meses": "7.07",
+            "Queda do Máximo": "-3.68%"
+        },
+        {
+            "TICKER": "SULA11",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "36.95",
+            "Cotação Máxima 12 meses": "52.28",
+            "Queda do Máximo": "-29.32%"
+        },
+        {
+            "TICKER": "SULA3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "13.91",
+            "Cotação Máxima 12 meses": "23.55",
+            "Queda do Máximo": "-40.93%"
+        },
+        {
+            "TICKER": "SULA4",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Seguradoras",
+            "PRECO": "11.50",
+            "Cotação Máxima 12 meses": "16.28",
+            "Queda do Máximo": "-29.36%"
+        },
+        {
+            "TICKER": "SUZB3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Madeira e Papel",
+            "Segmento": "Papel e Celulose",
+            "PRECO": "72.65",
+            "Cotação Máxima 12 meses": "79.81",
+            "Queda do Máximo": "-8.97%"
+        },
+        {
+            "TICKER": "TAEE11",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "35.88",
+            "Cotação Máxima 12 meses": "36.50",
+            "Queda do Máximo": "-1.70%"
+        },
+        {
+            "TICKER": "TAEE3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "11.89",
+            "Cotação Máxima 12 meses": "12.03",
+            "Queda do Máximo": "-1.16%"
+        },
+        {
+            "TICKER": "TAEE4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "12.00",
+            "Cotação Máxima 12 meses": "12.28",
+            "Queda do Máximo": "-2.28%"
+        },
+        {
+            "TICKER": "TASA3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Armas e Munições",
+            "PRECO": "23.03",
+            "Cotação Máxima 12 meses": "28.24",
+            "Queda do Máximo": "-18.45%"
+        },
+        {
+            "TICKER": "TASA4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Armas e Munições",
+            "PRECO": "22.83",
+            "Cotação Máxima 12 meses": "26.79",
+            "Queda do Máximo": "-14.78%"
+        },
+        {
+            "TICKER": "TCNO3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Engenharia Consultiva",
+            "PRECO": "2.40",
+            "Cotação Máxima 12 meses": "3.75",
+            "Queda do Máximo": "-36.00%"
+        },
+        {
+            "TICKER": "TCNO4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Construção e Engenharia",
+            "Segmento": "Engenharia Consultiva",
+            "PRECO": "1.55",
+            "Cotação Máxima 12 meses": "2.09",
+            "Queda do Máximo": "-25.84%"
+        },
+        {
+            "TICKER": "TCSA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "7.47",
+            "Cotação Máxima 12 meses": "14.10",
+            "Queda do Máximo": "-47.02%"
+        },
+        {
+            "TICKER": "TECN3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Acessórios",
+            "PRECO": "1.52",
+            "Cotação Máxima 12 meses": "1.94",
+            "Queda do Máximo": "-21.65%"
+        },
+        {
+            "TICKER": "TEKA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "44.00",
+            "Cotação Máxima 12 meses": "136.62",
+            "Queda do Máximo": "-67.79%"
+        },
+        {
+            "TICKER": "TEKA4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "17.19",
+            "Cotação Máxima 12 meses": "32.30",
+            "Queda do Máximo": "-46.78%"
+        },
+        {
+            "TICKER": "TELB3",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "71.40",
+            "Cotação Máxima 12 meses": "209.99",
+            "Queda do Máximo": "-66.00%"
+        },
+        {
+            "TICKER": "TELB4",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "25.76",
+            "Cotação Máxima 12 meses": "50.00",
+            "Queda do Máximo": "-48.48%"
+        },
+        {
+            "TICKER": "TEND3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "26.56",
+            "Cotação Máxima 12 meses": "35.58",
+            "Queda do Máximo": "-25.35%"
+        },
+        {
+            "TICKER": "TESA3",
+            "Setor": "Consumo não Cíclico",
+            "SubSetor": "Agropecuária",
+            "Segmento": "Agricultura",
+            "PRECO": "33.28",
+            "Cotação Máxima 12 meses": "34.89",
+            "Queda do Máximo": "-4.61%"
+        },
+        {
+            "TICKER": "TGMA3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Transporte Rodoviário",
+            "PRECO": "17.97",
+            "Cotação Máxima 12 meses": "30.40",
+            "Queda do Máximo": "-40.89%"
+        },
+        {
+            "TICKER": "TIET11",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "17.34",
+            "Cotação Máxima 12 meses": "17.96",
+            "Queda do Máximo": "-3.45%"
+        },
+        {
+            "TICKER": "TIET3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "3.47",
+            "Cotação Máxima 12 meses": "4.21",
+            "Queda do Máximo": "-17.58%"
+        },
+        {
+            "TICKER": "TIET4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "3.47",
+            "Cotação Máxima 12 meses": "3.60",
+            "Queda do Máximo": "-3.61%"
+        },
+        {
+            "TICKER": "TIMS3",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "12.88",
+            "Cotação Máxima 12 meses": "17.50",
+            "Queda do Máximo": "-26.40%"
+        },
+        {
+            "TICKER": "TKNO4",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Artefatos de Ferro e Aço",
+            "PRECO": "46.99",
+            "Cotação Máxima 12 meses": "100.00",
+            "Queda do Máximo": "-53.01%"
+        },
+        {
+            "TICKER": "TOTS3",
+            "Setor": "Tecnologia da Informação",
+            "SubSetor": "Programas e Serviços",
+            "Segmento": "Programas e Serviços",
+            "PRECO": "28.08",
+            "Cotação Máxima 12 meses": "34.94",
+            "Queda do Máximo": "-19.63%"
+        },
+        {
+            "TICKER": "TPIS3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Exploração de Rodovias",
+            "PRECO": "1.98",
+            "Cotação Máxima 12 meses": "3.20",
+            "Queda do Máximo": "-38.12%"
+        },
+        {
+            "TICKER": "TRIS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "9.94",
+            "Cotação Máxima 12 meses": "14.85",
+            "Queda do Máximo": "-33.06%"
+        },
+        {
+            "TICKER": "TRPL3",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "29.98",
+            "Cotação Máxima 12 meses": "31.94",
+            "Queda do Máximo": "-6.14%"
+        },
+        {
+            "TICKER": "TRPL4",
+            "Setor": "Utilidade Pública",
+            "SubSetor": "Energia Elétrica",
+            "Segmento": "Energia Elétrica",
+            "PRECO": "25.05",
+            "Cotação Máxima 12 meses": "29.35",
+            "Queda do Máximo": "-14.65%"
+        },
+        {
+            "TICKER": "TUPY3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Material de Transporte",
+            "Segmento": "Material Rodoviário",
+            "PRECO": "20.24",
+            "Cotação Máxima 12 meses": "24.16",
+            "Queda do Máximo": "-16.23%"
+        },
+        {
+            "TICKER": "TXRX3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "41.18",
+            "Cotação Máxima 12 meses": "250.00",
+            "Queda do Máximo": "-83.53%"
+        },
+        {
+            "TICKER": "TXRX4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Fios e Tecidos",
+            "PRECO": "9.17",
+            "Cotação Máxima 12 meses": "31.00",
+            "Queda do Máximo": "-70.42%"
+        },
+        {
+            "TICKER": "UCAS3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Utilidades Domésticas",
+            "Segmento": "Móveis",
+            "PRECO": "4.39",
+            "Cotação Máxima 12 meses": "5.29",
+            "Queda do Máximo": "-17.01%"
+        },
+        {
+            "TICKER": "UGPA3",
+            "Setor": "Petróleo, Gás e Biocombustíveis",
+            "SubSetor": "Petróleo, Gás e Biocombustíveis",
+            "Segmento": "Exploração, Refino e Distribuição",
+            "PRECO": "20.82",
+            "Cotação Máxima 12 meses": "25.22",
+            "Queda do Máximo": "-17.45%"
+        },
+        {
+            "TICKER": "UNIP3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Químicos Diversos",
+            "PRECO": "62.94",
+            "Cotação Máxima 12 meses": "63.99",
+            "Queda do Máximo": "-1.64%"
+        },
+        {
+            "TICKER": "UNIP5",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Químicos Diversos",
+            "PRECO": "66.90",
+            "Cotação Máxima 12 meses": "67.00",
+            "Queda do Máximo": "-0.15%"
+        },
+        {
+            "TICKER": "UNIP6",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Químicos",
+            "Segmento": "Químicos Diversos",
+            "PRECO": "64.41",
+            "Cotação Máxima 12 meses": "69.00",
+            "Queda do Máximo": "-6.65%"
+        },
+        {
+            "TICKER": "USIM3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "17.06",
+            "Cotação Máxima 12 meses": "19.83",
+            "Queda do Máximo": "-13.97%"
+        },
+        {
+            "TICKER": "USIM5",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "16.63",
+            "Cotação Máxima 12 meses": "18.90",
+            "Queda do Máximo": "-12.01%"
+        },
+        {
+            "TICKER": "USIM6",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Siderurgia e Metalurgia",
+            "Segmento": "Siderurgia",
+            "PRECO": "18.77",
+            "Cotação Máxima 12 meses": "23.00",
+            "Queda do Máximo": "-18.39%"
+        },
+        {
+            "TICKER": "VALE3",
+            "Setor": "Materiais Básicos",
+            "SubSetor": "Mineração",
+            "Segmento": "Minerais Metálicos",
+            "PRECO": "94.90",
+            "Cotação Máxima 12 meses": "104.00",
+            "Queda do Máximo": "-8.75%"
+        },
+        {
+            "TICKER": "VIVA3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Acessórios",
+            "PRECO": "24.07",
+            "Cotação Máxima 12 meses": "29.46",
+            "Queda do Máximo": "-18.30%"
+        },
+        {
+            "TICKER": "VIVR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Construção Civil",
+            "Segmento": "Incorporações",
+            "PRECO": "1.02",
+            "Cotação Máxima 12 meses": "2.05",
+            "Queda do Máximo": "-50.24%"
+        },
+        {
+            "TICKER": "VIVT3",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "45.82",
+            "Cotação Máxima 12 meses": "54.76",
+            "Queda do Máximo": "-16.33%"
+        },
+        {
+            "TICKER": "VIVT4",
+            "Setor": "Comunicações",
+            "SubSetor": "Telecomunicações",
+            "Segmento": "Telecomunicações",
+            "PRECO": "#N/A",
+            "Cotação Máxima 12 meses": "#N/A"
+        },
+        {
+            "TICKER": "VLID3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Serviços Diversos",
+            "Segmento": "Serviços Diversos",
+            "PRECO": "8.38",
+            "Cotação Máxima 12 meses": "12.26",
+            "Queda do Máximo": "-31.65%"
+        },
+        {
+            "TICKER": "VULC3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Tecidos, Vestuário e Calçados",
+            "Segmento": "Calçados",
+            "PRECO": "7.18",
+            "Cotação Máxima 12 meses": "9.03",
+            "Queda do Máximo": "-20.49%"
+        },
+        {
+            "TICKER": "VVAR3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Comércio",
+            "Segmento": "Eletrodomésticos",
+            "PRECO": "11.94",
+            "Cotação Máxima 12 meses": "22.36",
+            "Queda do Máximo": "-46.60%"
+        },
+        {
+            "TICKER": "WEGE3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Máquinas e Equipamentos",
+            "Segmento": "Motores, Compressores e Outros",
+            "PRECO": "72.38",
+            "Cotação Máxima 12 meses": "93.86",
+            "Queda do Máximo": "-22.89%"
+        },
+        {
+            "TICKER": "WHRL3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Utilidades Domésticas",
+            "Segmento": "Eletrodomésticos",
+            "PRECO": "7.02",
+            "Cotação Máxima 12 meses": "9.70",
+            "Queda do Máximo": "-27.63%"
+        },
+        {
+            "TICKER": "WHRL4",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Utilidades Domésticas",
+            "Segmento": "Eletrodomésticos",
+            "PRECO": "7.71",
+            "Cotação Máxima 12 meses": "10.40",
+            "Queda do Máximo": "-25.87%"
+        },
+        {
+            "TICKER": "WIZS3",
+            "Setor": "Financeiro",
+            "SubSetor": "Previdência e Seguros",
+            "Segmento": "Corretoras de Seguros",
+            "PRECO": "6.83",
+            "Cotação Máxima 12 meses": "11.96",
+            "Queda do Máximo": "-42.89%"
+        },
+        {
+            "TICKER": "WLMM3",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Comércio",
+            "Segmento": "Material de Transporte",
+            "PRECO": "18.21",
+            "Cotação Máxima 12 meses": "45.00",
+            "Queda do Máximo": "-59.53%"
+        },
+        {
+            "TICKER": "WLMM4",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Comércio",
+            "Segmento": "Material de Transporte",
+            "PRECO": "29.96",
+            "Cotação Máxima 12 meses": "32.00",
+            "Queda do Máximo": "-6.37%"
+        },
+        {
+            "TICKER": "WSON33",
+            "Setor": "Bens Industriais",
+            "SubSetor": "Transporte",
+            "Segmento": "Serviços de Apoio e Armazenagem",
+            "PRECO": "41.99",
+            "Cotação Máxima 12 meses": "49.94",
+            "Queda do Máximo": "-15.92%"
+        },
+        {
+            "TICKER": "YDUQ3",
+            "Setor": "Consumo Cíclico",
+            "SubSetor": "Diversos",
+            "Segmento": "Serviços Educacionais",
+            "PRECO": "27.25",
+            "Cotação Máxima 12 meses": "40.50",
+            "Queda do Máximo": "-32.72%"
+        }
+]
