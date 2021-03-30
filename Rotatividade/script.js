@@ -11,6 +11,7 @@ var custo_rotatividade  = document.getElementById('custo_rotatividade');
 form_rotatividade.addEventListener('submit', function(event){
     event.preventDefault();
     //CAlCULO DE ROTATIVIDADE
+    console.log(parseInt(media_demissao.value));
     var rotatividade = ((parseInt(media_admissao.value) + parseInt(media_demissao.value)) / 2) / parseInt(numero_funcionarios.value);
     //VARIAVEIS DE DATA
     //-------DE:-------------------------------
@@ -74,8 +75,7 @@ form_rotatividade.addEventListener('submit', function(event){
         custo = FGTS_variavel + (FGTS_variavel * juros);
         FGTS_variavel = FGTS + custo;
     }
-
-    custo = custo + (custo * (40 / 100));
+    custo = (custo + (custo * (40 / 100))) * parseInt(media_demissao.value);
     //RETORNO DO RESULTADO
     document.getElementById('taxa_rotatividade').value = rotatividade * 100 + "%";
     document.getElementById('custo_rotatividade').value = "R$ " + Math.round(custo);
